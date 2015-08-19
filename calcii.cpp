@@ -3,7 +3,8 @@
 void()
 {
 int a=10,b=5;
-int c=a+b;
-int d=a-b;
-cout<<"Subtraction is:",d;
+int d=a*b;
+int c=a-b;
+cout<<"multiplication is",d;
+cout<<"Subtraction is:",c;
 }
